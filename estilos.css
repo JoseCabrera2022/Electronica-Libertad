@@ -43,7 +43,7 @@
 
 @media only screen and (min-width: 1200px){
   body{
-    background-image: url(/imagenes/fondox.webp);
+    background-image: url(imagenes/fondox.webp);
     background-repeat: no-repeat;
   }
 
@@ -80,7 +80,7 @@
 
 @media only screen and (min-width: 900px) and (max-width: 1199px){
   body{
-    background-image: url(/imagenes/fondoalt2.webp);
+    background-image: url(imagenes/fondoalt2.webp);
     background-repeat:no-repeat;
   }
   #logo{
@@ -108,7 +108,7 @@
 
 @media only screen and (min-width: 768px) and (max-width: 899px){
   body{
-    background-image: url(/imagenes/fondoalt2.webp);
+    background-image: url(imagenes/fondoalt2.webp);
     background-repeat: no-repeat;
   }
   #logo{
@@ -136,7 +136,7 @@
 
 @media only screen and (min-width: 480px) and (max-width: 767px){
   body{
-    background-image: url(/imagenes/f3.png);
+    background-image: url(imagenes/f3.png);
     background-repeat: no-repeat;
   }
   #logo{
@@ -168,7 +168,7 @@
 
 @media only screen and (max-width: 479px){
   body{
-    background-image: url(/imagenes/f3.png);
+    background-image: url(imagenes/f3.png);
     background-repeat: no-repeat;
     
     
