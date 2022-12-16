@@ -1,2 +1,2 @@
 # Electronica-Libertad
-Pagina web - trabajo final cuso UTN
+Pagina web - trabajo final curso UTN
